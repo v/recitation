@@ -1,0 +1,6 @@
+When thinking about a problem recursively, think about three things:
+
+1. What is/are my base case(s)?
+2. How do I break down this problem into smaller problem(s)?
+3. How do I take the answer of the smaller problem(s) and get the 
+answer to the problem?
